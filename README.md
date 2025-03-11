@@ -14,3 +14,5 @@ Each category contains ten difficult words for an extra challenge. The game incl
 3. If the letter is correct, it will be revealed in the word.
 4. If the letter is incorrect, the hangman visual updates with a new mistake / new body part.
 5. The game ends when either the word is guessed correctly or the hangman is fully drawn (equivalent of 6 mistakes).
+
+![image](https://github.com/user-attachments/assets/742515f1-7e78-487e-a044-0ef02ad281cc)
